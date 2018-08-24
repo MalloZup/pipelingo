@@ -1,2 +1,2 @@
 # pipelingo
-create pipeline on demand (experimental(
+create pipeline on demand (experimental)
